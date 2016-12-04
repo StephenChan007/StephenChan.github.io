@@ -6,8 +6,8 @@ date:       2016-11-16
 author:     "Chan"
 header-img: "img/post-the_letter_bg.jpg"
 tags:
-    - 爱
-    - 青春与记忆
+    爱
+    青春与记忆
 ---
 
 > “世上好物兼不固，彩云易散琉璃碎。”
