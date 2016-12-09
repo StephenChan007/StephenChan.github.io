@@ -6,8 +6,8 @@ date:       2016-12-10
 author:     "Chan"
 header-img: "img/post-love_for_Leslie.jpg"
 tags:
-​        Leslie
-​        愿一生以歌,投入每天永不变
+        Leslie
+        愿一生以歌,投入每天永不变
         珍贵岁月里，寻觅我心中的诗
 ---
 
