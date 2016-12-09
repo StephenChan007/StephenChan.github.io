@@ -1,5 +1,4 @@
 ---
-
 layout:     post
 title:      "「我最爱的歌，最后总算唱过」"
 subtitle:   "风再起时"
@@ -9,9 +8,7 @@ header-img: "img/post-love_for_Leslie.jpg"
 tags:
 ​        Leslie
 ​        愿一生以歌,投入每天永不变
-
-​	珍贵岁月里，寻觅我心中的诗
-
+        珍贵岁月里，寻觅我心中的诗
 ---
 
 **最近被张国荣的这首歌洗脑了。每次听，都能听出不一样的感觉。**
