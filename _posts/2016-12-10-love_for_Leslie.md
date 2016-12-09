@@ -4,7 +4,7 @@ title:      "「我最爱的歌，最后总算唱过」"
 subtitle:   "风再起时"
 date:       2016-12-10
 author:     "Chan"
-header-img: "img/post-the_letter_bg.jpg"
+header-img: "img/post-love_for_Leslie.jpg"
 tags:
         Leslie
 	愿一生以歌
