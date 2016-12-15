@@ -81,9 +81,9 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "GretaWong",
-        href: "http://weibo.com/u/2574587854/"
-    }
-]
+#friends: [
+#    {
+#        title: "GretaWong",
+#        href: "http://weibo.com/u/2574587854/"
+#    }
+#]
