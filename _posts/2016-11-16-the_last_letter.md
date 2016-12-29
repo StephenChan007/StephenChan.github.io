@@ -3,7 +3,7 @@ layout:     post
 title:      "「最后的信」"
 subtitle:   "未命名"
 date:       2016-11-16
-author:     "Chan"
+author:     "CHAN"
 header-img: "img/post-the_letter_bg.png"
 tags:
 	爱
