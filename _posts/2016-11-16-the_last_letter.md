@@ -1,13 +1,10 @@
 ---
 layout:     post
-title:      "「最后的信」"
+title:      "「致她的最后一封信」"
 subtitle:   "未命名"
 date:       2016-11-16
 author:     "CHAN"
 header-img: "img/post-the_letter_bg.png"
-tags:
-	爱
-	青春与记忆
 ---
 
 ​	“世上好物兼不固，彩云易散琉璃碎。”
