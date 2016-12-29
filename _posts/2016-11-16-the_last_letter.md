@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      "「致她的最后一封信」"
+title:      「致她的最后一封信」
 subtitle:   "未命名"
 date:       2016-11-16
 author:     "CHAN"
 header-img: "img/post-the_letter_bg.png"
 tags:
-最后，我还是把你弄丢了
+        最后，我还是把你弄丢了
 ---
+
 
   “世上好物兼不固，彩云易散琉璃碎。”
 
