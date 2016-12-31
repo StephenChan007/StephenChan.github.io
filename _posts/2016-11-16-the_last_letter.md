@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      「致她的最后一封信」
-subtitle:   "未命名"
-date:       2016-11-16
-author:     "CHAN"
-header-img: "img/post-the_letter_bg.png"
+layout:post
+title:「致她的最后一封信」
+subtitle:"未命名"
+date:2016-11-16
+author:"CHAN"
+header-img:"img/post-the_letter_bg.png"
 tags:
         最后，我还是把你弄丢了
 ---
