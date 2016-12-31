@@ -1,12 +1,13 @@
 ---
-layout:post
-title:"「致她的最后一封信」"
-subtitle:"未命名"
-date:2016-11-16
-author:"Chan"
-header-img:"img/post-the_letter_bg.png"
-tags:最后，我还是把你弄丢了
-红红落叶长埋尘土内
+layout:		post
+title:		"「致她的最后一封信」"
+subtitle:	"未命名"
+date:		2016-11-16
+author:		"Chan"
+header-img:	"img/post-the_letter_bg.png"
+tags:
+	最后，我还是把你弄丢了
+	红红落叶长埋尘土内
 ---
 
 
