@@ -64,6 +64,8 @@ ba_track_id: 3e1e27ad76328ddd0f32af8e99bd098c
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
+# 51la Analytics
+51_track_id: 19092615
 
 
 
