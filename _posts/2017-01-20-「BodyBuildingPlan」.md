@@ -10,8 +10,12 @@ header-img: "img/img-body_building.jpeg"
 # 大肌肉群
 
 - 胸
+
 - 背
+
 - 大腿
+
+  ​
 ## *胸肌锻炼*
 
 1. **俯卧撑热身**（平板或上斜均可）-***20个左右***
@@ -55,6 +59,8 @@ header-img: "img/img-body_building.jpeg"
 
    ![img](/img/img-20170120-5.gif)
 
+
+
 ## *腿部锻炼*
 
 1. **哑铃深蹲**（热身）-**4组x12次**
@@ -77,11 +83,15 @@ header-img: "img/img-body_building.jpeg"
 
    ![img](/img/img-20170120-1.gif)
 
+
+
 # 小肌肉群
 
 - 肩
 - 手臂（小臂、肱二、肱三）
 - 腹肌
+
+
 
 
 ## *肩部锻炼*
@@ -109,6 +119,8 @@ header-img: "img/img-body_building.jpeg"
 6. **哑铃俯身飞鸟**-**4组x12次**
 
    ![img](/img/img-20170120-24.gif)
+
+
 
 ## *手臂锻炼*
 
@@ -139,6 +151,8 @@ header-img: "img/img-body_building.jpeg"
 3. **板凳负重屈臂伸**-**4组x12次**
 
    ![img](/img/img-20170120-10.gif)
+
+
 
 ## *腹肌锻炼*
 
