@@ -2,7 +2,7 @@
 layout:     post
 title:      "健身计划"
 date:       2017-01-20
-header-img: "img/post-20170114.jpg"
+header-img: "img/img-body_building.jpeg"
 ---
 
 > 按照大、小肌肉群区分，每天针对性对特定部位肌肉群给予刺激。可按照大肌肉群+小肌肉群混合的方式进行锻炼。
