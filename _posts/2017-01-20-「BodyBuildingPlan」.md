@@ -15,7 +15,8 @@ header-img: "img/img-body_building.jpeg"
 
 - 大腿
 
-## 胸肌锻炼
+  ​
+## *胸肌锻炼*
 
 1. **俯卧撑热身**（平板或上斜均可）-***20个左右***
 
@@ -36,7 +37,7 @@ header-img: "img/img-body_building.jpeg"
 5. **拉力器或器械夹胸**-**4组x12次**
 
    ![img](/img/img-20170120-23.gif)
-## 背肌锻炼
+## *背肌锻炼*
 
 1. **俯身杠铃划船**（热身）-**4组x12次**
 
@@ -60,7 +61,7 @@ header-img: "img/img-body_building.jpeg"
 
 
 
-## 腿部锻炼
+## *腿部锻炼*
 
 1. **哑铃深蹲**（热身）-**4组x12次**
 
@@ -91,7 +92,9 @@ header-img: "img/img-body_building.jpeg"
 - 腹肌
 
 
-## 肩部锻炼
+
+
+## *肩部锻炼*
 
 1. **坐姿哑铃推举**-**4组x12次**
 
@@ -119,7 +122,7 @@ header-img: "img/img-body_building.jpeg"
 
 
 
-## 手臂锻炼
+## *手臂锻炼*
 
 #### *二头肌*
 
@@ -151,7 +154,7 @@ header-img: "img/img-body_building.jpeg"
 
 
 
-## 腹肌锻炼
+## *腹肌锻炼*
 
 > 下载腹肌撕裂者中的相关动作。每个动作**4组x25次**
 
