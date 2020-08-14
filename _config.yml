@@ -3,7 +3,7 @@ title: StephenChan
 SEOTitle: 程鹏的博客 | ChengPeng’s Blog
 header-img: img/home-bg-o.jpg
 email: stephencp@163.com
-description: "StephenChan的个人博客空间 | 程鹏，此生定要活得漂亮 | 这里是程鹏的个人博客 | 说过去以往今昔一点唏嘘。"
+description: "StephenChan的个人博客空间 | 追求真正的价值 | 这里是程鹏的个人博客 | 说过去以往今昔一点唏嘘。"
 keyword: "程鹏, StephenChan, 程鹏的博客, StephenChan Blog, 博客, 互联网, Free-Style,Live a amazing life，思考，行动的力量。"
 url: "http://stephenchan.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -61,7 +61,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 #Analytics settings
 #Baidu Analytics
 #Google Analytics
-ba_track_id: '5fd77c13603d2d4059febde681218cda'
+ba_track_id: '276cc9af4a940b1ceca452d7ed662d07'
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
 
