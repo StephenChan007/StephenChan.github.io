@@ -61,7 +61,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 #Analytics settings
 #Baidu Analytics
 #Google Analytics
-ba_track_id: '276cc9af4a940b1ceca452d7ed662d07'
+ba_track_id: 'bda7d0543471b387803de176debe099f'
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
 
